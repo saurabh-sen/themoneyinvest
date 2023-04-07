@@ -35,7 +35,6 @@
     "react-multi-carousel": "^2.8.2",
     "react-router-dom": "^6.10.0",
     "react-scripts": "^2.1.3",
-    "react-tradingview-widget": "^1.3.2",
     "react-ts-tradingview-widgets": "^1.0.14"
   },
   "devDependencies": {
