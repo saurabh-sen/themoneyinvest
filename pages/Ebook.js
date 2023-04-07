@@ -16,7 +16,6 @@ function Ebook() {
           className="HeadImage object-contain"
           src="/images/Ebookhead.png"
           fill="true"
-          
           alt="Ebook Header"
         />
       </div>

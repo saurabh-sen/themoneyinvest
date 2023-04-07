@@ -5,7 +5,7 @@ function CommentsForm({ slug }) {
   const [error, setError] = useState(false);
   const [localStorage, setLocalStorage] = useState(null);
   const [showSuccessMessage, setShowSuccessMessage] = useState(false);
-  const [formData, setFormData] = useState({ name: "", email: "", comment: "", storeData: false });
+  const [formData, setFormData] = useState({ name: '', email: '', comment: '', storeData: false });
 
   useEffect(() => {
     setLocalStorage(window.localStorage);
